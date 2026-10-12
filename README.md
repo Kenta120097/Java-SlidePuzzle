@@ -1,2 +1,3 @@
-# Java-SlidePuzzle
-Slide puzzle with a save feature
+# スライドパズル
+## 概要
+Javaを用いて作成したセーブ機能付きスライドパズルです。
